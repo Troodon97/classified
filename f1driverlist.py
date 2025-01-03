@@ -2,3 +2,4 @@
 
 list = ['max','lewis','vettel','alonso']
 
+# Vettel is not allowed
